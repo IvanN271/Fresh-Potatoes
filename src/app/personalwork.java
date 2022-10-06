@@ -1,3 +1,5 @@
+package personalwork;
+
 import java.util.ArrayList;
 
 public class maze {
@@ -32,23 +34,38 @@ public class maze {
         ArrayList<Integer> twentyfourpath = new ArrayList<Integer>();
 
         zeropath.add(1);
+
         onepath.add(2);
+
         twopath.add(3);
         twopath.add(7);
+
+        sixpath.add(5);
+
         sevenpath.add(6);
         sevenpath.add(12);
-        sixpath.add(5);
-        twelvepath.add(11);
-        elevenpath.add(10);
-        fifteenpath.add(16);
-        sixteenpath.add(17);
-        seventeenpath.add(18);
-        eighteenpath.add(13);
+
         eightpath.add(9);
         eightpath.add(13);
+
         ninepath.add(14);
+
+        elevenpath.add(10);
+
+        twelvepath.add(11);
+
         fourteenpath.add(19);
+
+        fifteenpath.add(16);
+
+        sixteenpath.add(17);
+
+        seventeenpath.add(18);
+
+        eighteenpath.add(13);
+        
         nineteenpath.add(24);
+
         twentyfourpath.add(23);
 
 
